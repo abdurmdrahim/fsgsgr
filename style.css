@@ -24,8 +24,8 @@ img{max-width:25% ; padding:10px 15px; }
  .button{display:inline-block;}
   .button a{ position:relative;  text-decoration: none;color:white;font-weight: 600; font-size:15px;
 background-color:darkgreen; padding:10px; color:black;
-border:1px solid white;
-z-index:1;} 
+border:1px solid white;z-index:1
+} 
 .button a::before{content:"";
 position:absolute;top:0;left:0;
 background-color:red;height:100%;
